@@ -6,6 +6,7 @@
 
 * [x] [Day 01](01/README.md): [Part 1](./01/part1.ts) - [Part 2](./01/part2.ts)
 * [x] [Day 02](02/README.md): [Part 1](./02/part1.ts) - [Part 2](./02/part2.ts)
+* [x] [Day 03](03/README.md): [Part 1](./03/part1.ts) - [Part 2](./03/part2.ts)
 
 ## Licence
 
